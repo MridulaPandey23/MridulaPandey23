@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mridulapandey23&label=Profile%20views&color=0e75b6&style=flat" alt="mridulapandey23" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mridulapandey23" alt="mridulapandey23" /></a> </p>
 
-- 📫 How to reach me **pandeymridula232gmail.com**
+
+- 📫 How to reach me **pandeymridula23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
